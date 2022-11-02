@@ -20,5 +20,7 @@
 </body>
 <script>
 	var obj = {};
+	obj.name="홍길동";
+	obj["age"]=33;
 </script>
 </html>
