@@ -18,5 +18,7 @@
 	<p>불필요한 내용</p>
 
 </body>
-<script></script>
+<script>
+	var obj = {};
+</script>
 </html>
